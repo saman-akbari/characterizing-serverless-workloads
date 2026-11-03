@@ -1,0 +1,7 @@
+dask[distributed]
+matplotlib
+numpy
+pandas
+pyarrow
+scipy
+seaborn
